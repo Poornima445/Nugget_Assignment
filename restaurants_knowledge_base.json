@@ -1,0 +1,1311 @@
+{
+  "restaurants": {
+    "rest_0": {
+      "name": "Tamarind Restaurant",
+      "address": {
+        "street": "Plot Number 70, Civil Lines, Roorkee - 247667, Roorkee Locality, Roorkee",
+        "locality": "roorkee locality, roorkee",
+        "region": "roorkee",
+        "postal_code": 247667,
+        "country": "India",
+        "full_address": "Plot Number 70, Civil Lines, Roorkee - 247667, Roorkee Locality, Roorkee, roorkee locality, roorkee, roorkee, nan, India"
+      },
+      "contact": {
+        "phone": [
+          "+919997039999"
+        ]
+      },
+      "cuisine": [
+        "Chinese",
+        "North Indian",
+        "Biryani",
+        "Italian",
+        "Desserts"
+      ],
+      "opening_info": {
+        "raw": "Opens tomorrow at 11am",
+        "normalized": "Opens tomorrow at 11am",
+        "status": "opens_tomorrow"
+      },
+      "menu": [
+        {
+          "name": "Vegetable Spring Rolls",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Schezwan Noodles",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Paneer Tikka",
+          "price": 220,
+          "category": "Starters"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 280,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Naan",
+          "price": 50,
+          "category": "Breads"
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": 90,
+          "category": "Desserts"
+        },
+        {
+          "name": "Vegetable Biryani",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 350,
+          "category": "Main Course"
+        },
+        {
+          "name": "Raita",
+          "price": 60,
+          "category": "Sides"
+        },
+        {
+          "name": "Mirchi Ka Salan",
+          "price": 80,
+          "category": "Sides"
+        },
+        {
+          "name": "Margherita Pizza",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Pasta Alfredo",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Bread",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 150,
+          "category": "Desserts"
+        },
+        {
+          "name": "Minestrone Soup",
+          "price": 160,
+          "category": "Starters"
+        },
+        {
+          "name": "Chocolate Brownie",
+          "price": 120,
+          "category": "Desserts"
+        },
+        {
+          "name": "Ice Cream Sundae",
+          "price": 150,
+          "category": "Desserts"
+        },
+        {
+          "name": "Cheesecake",
+          "price": 180,
+          "category": "Desserts"
+        },
+        {
+          "name": "Gajar Ka Halwa",
+          "price": 100,
+          "category": "Desserts"
+        },
+        {
+          "name": "Masala Chai",
+          "price": 40,
+          "category": "Beverages"
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 90,
+          "category": "Beverages"
+        }
+      ],
+      "price_range": "₹40-₹350"
+    },
+    "rest_1": {
+      "name": "Olive Multicuisine Restaurant",
+      "address": {
+        "street": "273/2, Civil Lines, Roorkee Locality, Roorkee",
+        "locality": "roorkee locality, roorkee",
+        "region": "roorkee",
+        "postal_code": 247667,
+        "country": "India",
+        "full_address": "273/2, Civil Lines, Roorkee Locality, Roorkee, roorkee locality, roorkee, roorkee, nan, India"
+      },
+      "contact": {
+        "phone": [
+          "+919997449999"
+        ]
+      },
+      "cuisine": [
+        "North Indian",
+        "Chinese",
+        "Biryani",
+        "Italian",
+        "Sandwich",
+        "Desserts",
+        "Beverages"
+      ],
+      "opening_info": {
+        "raw": "11am – 11:30pm (Today)",
+        "normalized": "11am - 11:30pm",
+        "status": "open_today"
+      },
+      "menu": [
+        {
+          "name": "Paneer Tikka",
+          "price": 220,
+          "category": "Starters"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 280,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Naan",
+          "price": 50,
+          "category": "Breads"
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": 90,
+          "category": "Desserts"
+        },
+        {
+          "name": "Vegetable Spring Rolls",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Schezwan Noodles",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Vegetable Biryani",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 350,
+          "category": "Main Course"
+        },
+        {
+          "name": "Raita",
+          "price": 60,
+          "category": "Sides"
+        },
+        {
+          "name": "Mirchi Ka Salan",
+          "price": 80,
+          "category": "Sides"
+        },
+        {
+          "name": "Margherita Pizza",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Pasta Alfredo",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Bread",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 150,
+          "category": "Desserts"
+        },
+        {
+          "name": "Minestrone Soup",
+          "price": 160,
+          "category": "Starters"
+        },
+        {
+          "name": "Chocolate Brownie",
+          "price": 120,
+          "category": "Desserts"
+        },
+        {
+          "name": "Ice Cream Sundae",
+          "price": 150,
+          "category": "Desserts"
+        },
+        {
+          "name": "Cheesecake",
+          "price": 180,
+          "category": "Desserts"
+        },
+        {
+          "name": "Gajar Ka Halwa",
+          "price": 100,
+          "category": "Desserts"
+        },
+        {
+          "name": "Mineral Water",
+          "price": 30,
+          "category": "Beverages"
+        },
+        {
+          "name": "Masala Chai",
+          "price": 40,
+          "category": "Beverages"
+        },
+        {
+          "name": "Fresh Lime Soda",
+          "price": 60,
+          "category": "Beverages"
+        }
+      ],
+      "price_range": "₹30-₹350"
+    },
+    "rest_2": {
+      "name": "Rustic House",
+      "address": {
+        "street": "77/2 Civil Lines, Above Central Bank, Roorkee Locality, Roorkee",
+        "locality": "roorkee locality, roorkee",
+        "region": "roorkee",
+        "postal_code": 247667,
+        "country": "India",
+        "full_address": "77/2 Civil Lines, Above Central Bank, Roorkee Locality, Roorkee, roorkee locality, roorkee, roorkee, nan, India"
+      },
+      "contact": {
+        "phone": [
+          "+919720155555"
+        ]
+      },
+      "cuisine": [
+        "North Indian",
+        "Chinese"
+      ],
+      "opening_info": {
+        "raw": "Opens tomorrow at 11am",
+        "normalized": "Opens tomorrow at 11am",
+        "status": "opens_tomorrow"
+      },
+      "menu": [
+        {
+          "name": "Paneer Tikka",
+          "price": 220,
+          "category": "Starters"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 280,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Naan",
+          "price": 50,
+          "category": "Breads"
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": 90,
+          "category": "Desserts"
+        },
+        {
+          "name": "Vegetable Spring Rolls",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Schezwan Noodles",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Masala Chai",
+          "price": 40,
+          "category": "Beverages"
+        },
+        {
+          "name": "Mineral Water",
+          "price": 30,
+          "category": "Beverages"
+        }
+      ],
+      "price_range": "₹30-₹280"
+    },
+    "rest_3": {
+      "name": "Hangries",
+      "address": {
+        "street": "Opposite Indian Institute Of Technology, Civil Lines, Roorkee Locality, Roorkee",
+        "locality": "roorkee locality, roorkee",
+        "region": "roorkee",
+        "postal_code": 247667.0,
+        "country": "India",
+        "full_address": "Opposite Indian Institute Of Technology, Civil Lines, Roorkee Locality, Roorkee, roorkee locality, roorkee, roorkee, 247667.0, India"
+      },
+      "contact": {
+        "phone": [
+          "+919745297452"
+        ]
+      },
+      "cuisine": [
+        "Chinese",
+        "Burger",
+        "Pizza",
+        "Italian",
+        "Beverages"
+      ],
+      "opening_info": {
+        "raw": "12midnight – 1am, 9:45am – 12midnight (Today)",
+        "normalized": "12:00am - 1am, 9:45am - 12:00am",
+        "status": "open_today"
+      },
+      "menu": [
+        {
+          "name": "Vegetable Spring Rolls",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Schezwan Noodles",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Margherita Pizza",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Pasta Alfredo",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Bread",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 150,
+          "category": "Desserts"
+        },
+        {
+          "name": "Minestrone Soup",
+          "price": 160,
+          "category": "Starters"
+        },
+        {
+          "name": "Masala Chai",
+          "price": 40,
+          "category": "Beverages"
+        },
+        {
+          "name": "Fresh Lime Soda",
+          "price": 60,
+          "category": "Beverages"
+        }
+      ],
+      "price_range": "₹40-₹250"
+    },
+    "rest_4": {
+      "name": "Milk Bar",
+      "address": {
+        "street": "19, Civil lines, Roorkee, Roorkee Locality, Roorkee",
+        "locality": "roorkee locality, roorkee",
+        "region": "roorkee",
+        "postal_code": 247667,
+        "country": "India",
+        "full_address": "19, Civil lines, Roorkee, Roorkee Locality, Roorkee, roorkee locality, roorkee, roorkee, nan, India"
+      },
+      "contact": {
+        "phone": [
+          "+919548801704"
+        ]
+      },
+      "cuisine": [
+        "Bakery",
+        "Desserts",
+        "Pizza",
+        "Italian",
+        "Chinese"
+      ],
+      "opening_info": {
+        "raw": "Opens tomorrow at 10am",
+        "normalized": "Opens tomorrow at 10am",
+        "status": "opens_tomorrow"
+      },
+      "menu": [
+        {
+          "name": "Chocolate Brownie",
+          "price": 120,
+          "category": "Desserts"
+        },
+        {
+          "name": "Ice Cream Sundae",
+          "price": 150,
+          "category": "Desserts"
+        },
+        {
+          "name": "Cheesecake",
+          "price": 180,
+          "category": "Desserts"
+        },
+        {
+          "name": "Gajar Ka Halwa",
+          "price": 100,
+          "category": "Desserts"
+        },
+        {
+          "name": "Margherita Pizza",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Pasta Alfredo",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Bread",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 150,
+          "category": "Desserts"
+        },
+        {
+          "name": "Minestrone Soup",
+          "price": 160,
+          "category": "Starters"
+        },
+        {
+          "name": "Vegetable Spring Rolls",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Schezwan Noodles",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 90,
+          "category": "Beverages"
+        },
+        {
+          "name": "Masala Chai",
+          "price": 40,
+          "category": "Beverages"
+        }
+      ],
+      "price_range": "₹40-₹250"
+    },
+    "rest_5": {
+      "name": "Desi Tadka",
+      "address": {
+        "street": "254/1, Civil Lines, Haridwar Highway Road, Roorkee Locality, Roorkee",
+        "locality": "roorkee locality, roorkee",
+        "region": "roorkee",
+        "postal_code": 247667,
+        "country": "India",
+        "full_address": "254/1, Civil Lines, Haridwar Highway Road, Roorkee Locality, Roorkee, roorkee locality, roorkee, roorkee, nan, India"
+      },
+      "contact": {
+        "phone": [
+          "+919897002272",
+          "+919897738777",
+          "+919068609772"
+        ]
+      },
+      "cuisine": [
+        "North Indian",
+        "Biryani",
+        "Chinese",
+        "Kebab"
+      ],
+      "opening_info": {
+        "raw": "Opens tomorrow at 12noon",
+        "normalized": "Opens tomorrow at 12noon",
+        "status": "opens_tomorrow"
+      },
+      "menu": [
+        {
+          "name": "Paneer Tikka",
+          "price": 220,
+          "category": "Starters"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 280,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Naan",
+          "price": 50,
+          "category": "Breads"
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": 90,
+          "category": "Desserts"
+        },
+        {
+          "name": "Vegetable Biryani",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 350,
+          "category": "Main Course"
+        },
+        {
+          "name": "Raita",
+          "price": 60,
+          "category": "Sides"
+        },
+        {
+          "name": "Mirchi Ka Salan",
+          "price": 80,
+          "category": "Sides"
+        },
+        {
+          "name": "Vegetable Spring Rolls",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Schezwan Noodles",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Fresh Lime Soda",
+          "price": 60,
+          "category": "Beverages"
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 90,
+          "category": "Beverages"
+        }
+      ],
+      "price_range": "₹50-₹350"
+    },
+    "rest_6": {
+      "name": "Prakash Restaurant",
+      "address": {
+        "street": "Azad Nagar Chowk, Roorkee",
+        "locality": "roorkee locality, roorkee",
+        "region": "roorkee",
+        "postal_code": 247667.0,
+        "country": "India",
+        "full_address": "Azad Nagar Chowk, Roorkee, roorkee locality, roorkee, roorkee, 247667.0, India"
+      },
+      "contact": {
+        "phone": [
+          "+919068702405"
+        ]
+      },
+      "cuisine": [
+        "North Indian",
+        "Chinese",
+        "South Indian",
+        "Biryani",
+        "Pizza",
+        "Desserts"
+      ],
+      "opening_info": {
+        "raw": "Opens tomorrow at 11am",
+        "normalized": "Opens tomorrow at 11am",
+        "status": "opens_tomorrow"
+      },
+      "menu": [
+        {
+          "name": "Paneer Tikka",
+          "price": 220,
+          "category": "Starters"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 280,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Naan",
+          "price": 50,
+          "category": "Breads"
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": 90,
+          "category": "Desserts"
+        },
+        {
+          "name": "Vegetable Spring Rolls",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Schezwan Noodles",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Vegetable Biryani",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 350,
+          "category": "Main Course"
+        },
+        {
+          "name": "Raita",
+          "price": 60,
+          "category": "Sides"
+        },
+        {
+          "name": "Mirchi Ka Salan",
+          "price": 80,
+          "category": "Sides"
+        },
+        {
+          "name": "Chocolate Brownie",
+          "price": 120,
+          "category": "Desserts"
+        },
+        {
+          "name": "Ice Cream Sundae",
+          "price": 150,
+          "category": "Desserts"
+        },
+        {
+          "name": "Cheesecake",
+          "price": 180,
+          "category": "Desserts"
+        },
+        {
+          "name": "Gajar Ka Halwa",
+          "price": 100,
+          "category": "Desserts"
+        },
+        {
+          "name": "Fresh Lime Soda",
+          "price": 60,
+          "category": "Beverages"
+        },
+        {
+          "name": "Masala Chai",
+          "price": 40,
+          "category": "Beverages"
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 90,
+          "category": "Beverages"
+        }
+      ],
+      "price_range": "₹40-₹350"
+    },
+    "rest_7": {
+      "name": "Hitchki",
+      "address": {
+        "street": "Main Civil Line Market, Roorkee Locality, Roorkee",
+        "locality": "roorkee locality, roorkee",
+        "region": "roorkee",
+        "postal_code": 247667.0,
+        "country": "India",
+        "full_address": "Main Civil Line Market, Roorkee Locality, Roorkee, roorkee locality, roorkee, roorkee, 247667.0, India"
+      },
+      "contact": {
+        "phone": [
+          "+919760337193"
+        ]
+      },
+      "cuisine": [
+        "North Indian"
+      ],
+      "opening_info": {
+        "raw": "Opens tomorrow at 12noon",
+        "normalized": "Opens tomorrow at 12noon",
+        "status": "opens_tomorrow"
+      },
+      "menu": [
+        {
+          "name": "Paneer Tikka",
+          "price": 220,
+          "category": "Starters"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 280,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Naan",
+          "price": 50,
+          "category": "Breads"
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": 90,
+          "category": "Desserts"
+        },
+        {
+          "name": "Masala Chai",
+          "price": 40,
+          "category": "Beverages"
+        },
+        {
+          "name": "Fresh Lime Soda",
+          "price": 60,
+          "category": "Beverages"
+        },
+        {
+          "name": "Mineral Water",
+          "price": 30,
+          "category": "Beverages"
+        }
+      ],
+      "price_range": "₹30-₹280"
+    },
+    "rest_8": {
+      "name": "Tanisha's Restaurant Royal Hyderabadi Biryani",
+      "address": {
+        "street": "29, Near Axess Bank, Roorkee Locality, Roorkee",
+        "locality": "roorkee locality, roorkee",
+        "region": "roorkee",
+        "postal_code": 247667.0,
+        "country": "India",
+        "full_address": "29, Near Axess Bank, Roorkee Locality, Roorkee, roorkee locality, roorkee, roorkee, 247667.0, India"
+      },
+      "contact": {
+        "phone": [
+          "+919520100700"
+        ]
+      },
+      "cuisine": [
+        "Biryani",
+        "Chinese",
+        "North Indian"
+      ],
+      "opening_info": {
+        "raw": "Opens tomorrow at 11am",
+        "normalized": "Opens tomorrow at 11am",
+        "status": "opens_tomorrow"
+      },
+      "menu": [
+        {
+          "name": "Vegetable Biryani",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 350,
+          "category": "Main Course"
+        },
+        {
+          "name": "Raita",
+          "price": 60,
+          "category": "Sides"
+        },
+        {
+          "name": "Mirchi Ka Salan",
+          "price": 80,
+          "category": "Sides"
+        },
+        {
+          "name": "Vegetable Spring Rolls",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Schezwan Noodles",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Paneer Tikka",
+          "price": 220,
+          "category": "Starters"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 280,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Naan",
+          "price": 50,
+          "category": "Breads"
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": 90,
+          "category": "Desserts"
+        },
+        {
+          "name": "Fresh Lime Soda",
+          "price": 60,
+          "category": "Beverages"
+        },
+        {
+          "name": "Masala Chai",
+          "price": 40,
+          "category": "Beverages"
+        }
+      ],
+      "price_range": "₹40-₹350"
+    },
+    "rest_9": {
+      "name": "18 Down Town Pool & Restaurant",
+      "address": {
+        "street": "Khasra 256/5, Asaf Nagar Chouraha, Right Canal Road, Near Eapro Solar Plant, Roorkee Locality, Roorkee",
+        "locality": "roorkee locality, roorkee",
+        "region": "roorkee",
+        "postal_code": 247666.0,
+        "country": "India",
+        "full_address": "Khasra 256/5, Asaf Nagar Chouraha, Right Canal Road, Near Eapro Solar Plant, Roorkee Locality, Roorkee, roorkee locality, roorkee, roorkee, 247666.0, India"
+      },
+      "contact": {
+        "phone": [
+          "+919837574874"
+        ]
+      },
+      "cuisine": [
+        "North Indian",
+        "Chinese",
+        "Salad",
+        "Pasta",
+        "Sandwich",
+        "Fast Food",
+        "Desserts",
+        "Coffee"
+      ],
+      "opening_info": {
+        "raw": "Opens tomorrow at 11:15am",
+        "normalized": "Opens tomorrow at 11:15am",
+        "status": "opens_tomorrow"
+      },
+      "menu": [
+        {
+          "name": "Paneer Tikka",
+          "price": 220,
+          "category": "Starters"
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 280,
+          "category": "Main Course"
+        },
+        {
+          "name": "Garlic Naan",
+          "price": 50,
+          "category": "Breads"
+        },
+        {
+          "name": "Gulab Jamun",
+          "price": 90,
+          "category": "Desserts"
+        },
+        {
+          "name": "Vegetable Spring Rolls",
+          "price": 120,
+          "category": "Starters"
+        },
+        {
+          "name": "Chicken Manchurian",
+          "price": 220,
+          "category": "Main Course"
+        },
+        {
+          "name": "Veg Fried Rice",
+          "price": 180,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 250,
+          "category": "Main Course"
+        },
+        {
+          "name": "Schezwan Noodles",
+          "price": 200,
+          "category": "Main Course"
+        },
+        {
+          "name": "Chocolate Brownie",
+          "price": 120,
+          "category": "Desserts"
+        },
+        {
+          "name": "Ice Cream Sundae",
+          "price": 150,
+          "category": "Desserts"
+        },
+        {
+          "name": "Cheesecake",
+          "price": 180,
+          "category": "Desserts"
+        },
+        {
+          "name": "Gajar Ka Halwa",
+          "price": 100,
+          "category": "Desserts"
+        },
+        {
+          "name": "Mineral Water",
+          "price": 30,
+          "category": "Beverages"
+        },
+        {
+          "name": "Masala Chai",
+          "price": 40,
+          "category": "Beverages"
+        }
+      ],
+      "price_range": "₹30-₹280"
+    }
+  },
+  "indexes": {
+    "by_cuisine": {
+      "chinese": [
+        "rest_0",
+        "rest_1",
+        "rest_2",
+        "rest_3",
+        "rest_4",
+        "rest_5",
+        "rest_6",
+        "rest_8",
+        "rest_9"
+      ],
+      "north indian": [
+        "rest_0",
+        "rest_1",
+        "rest_2",
+        "rest_5",
+        "rest_6",
+        "rest_7",
+        "rest_8",
+        "rest_9"
+      ],
+      "biryani": [
+        "rest_0",
+        "rest_1",
+        "rest_5",
+        "rest_6",
+        "rest_8"
+      ],
+      "italian": [
+        "rest_0",
+        "rest_1",
+        "rest_3",
+        "rest_4"
+      ],
+      "desserts": [
+        "rest_0",
+        "rest_1",
+        "rest_4",
+        "rest_6",
+        "rest_9"
+      ],
+      "sandwich": [
+        "rest_1",
+        "rest_9"
+      ],
+      "beverages": [
+        "rest_1",
+        "rest_3"
+      ],
+      "burger": [
+        "rest_3"
+      ],
+      "pizza": [
+        "rest_3",
+        "rest_4",
+        "rest_6"
+      ],
+      "bakery": [
+        "rest_4"
+      ],
+      "kebab": [
+        "rest_5"
+      ],
+      "south indian": [
+        "rest_6"
+      ],
+      "salad": [
+        "rest_9"
+      ],
+      "pasta": [
+        "rest_9"
+      ],
+      "fast food": [
+        "rest_9"
+      ],
+      "coffee": [
+        "rest_9"
+      ]
+    },
+    "by_location": {
+      "roorkee locality, roorkee": [
+        "rest_0",
+        "rest_1",
+        "rest_2",
+        "rest_3",
+        "rest_4",
+        "rest_5",
+        "rest_6",
+        "rest_7",
+        "rest_8",
+        "rest_9"
+      ]
+    },
+    "by_opening_status": {
+      "opens_tomorrow": [
+        "rest_0",
+        "rest_2",
+        "rest_4",
+        "rest_5",
+        "rest_6",
+        "rest_7",
+        "rest_8",
+        "rest_9"
+      ],
+      "open_today": [
+        "rest_1",
+        "rest_3"
+      ]
+    },
+    "by_price_range": {
+      "₹40-₹350": [
+        "rest_0",
+        "rest_6",
+        "rest_8"
+      ],
+      "₹30-₹350": [
+        "rest_1"
+      ],
+      "₹30-₹280": [
+        "rest_2",
+        "rest_7",
+        "rest_9"
+      ],
+      "₹40-₹250": [
+        "rest_3",
+        "rest_4"
+      ],
+      "₹50-₹350": [
+        "rest_5"
+      ]
+    }
+  }
+}
